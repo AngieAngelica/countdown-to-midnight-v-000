@@ -9,4 +9,4 @@ x = 10
   end
 end
 
-countdown(10)
+countdown(12)
