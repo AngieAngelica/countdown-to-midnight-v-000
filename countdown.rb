@@ -1,4 +1,5 @@
 def countdown(integer)
+x = gets.to_i
   while x > 0
     puts "#{x} SECOND(S)!"
     x -= 1
@@ -8,3 +9,4 @@ def countdown(integer)
   end
 end
 
+countdown(10)
