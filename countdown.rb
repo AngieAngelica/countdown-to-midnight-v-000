@@ -12,3 +12,7 @@ end
 countdown(12)
 
 def countdown _with_sleep(integer)
+  sleep 5
+end
+
+countdown _with_sleep(12)
